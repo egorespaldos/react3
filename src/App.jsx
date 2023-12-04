@@ -10,7 +10,7 @@ import Tienda from './pages/Tienda'
 import { useState } from 'react'
 
 function App() {
-  
+  console.log();
   const [carrito, setCarrito] = useState([]);
   return (
     <>
